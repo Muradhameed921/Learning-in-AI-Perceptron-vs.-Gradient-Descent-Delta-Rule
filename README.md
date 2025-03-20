@@ -1,0 +1,1 @@
+# Learning-in-AI-Perceptron-vs.-Gradient-Descent-Delta-Rule
