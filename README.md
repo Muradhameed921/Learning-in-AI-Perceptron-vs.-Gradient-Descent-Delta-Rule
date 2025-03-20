@@ -49,7 +49,7 @@ pip install numpy pandas matplotlib scikit-learn
 ## Running the Project
 Run the Python script using:
 ```bash
-python main.py
+python main.ipynb
 ```
 This will train both models and display performance metrics.
 
@@ -59,4 +59,6 @@ This will train both models and display performance metrics.
 - Improve visualization of decision boundaries.
 
 ## Output
-![Sudoku Solver Screenshot](https://github.com/Muradhameed921/Sudoku-Puzzle-Solver/blob/main/O1.jpg)
+![Sudoku Solver Screenshot](https://github.com/Muradhameed921/Learning-in-AI-Perceptron-vs.-Gradient-Descent-Delta-Rule/blob/main/O1.jpg)
+![Sudoku Solver Screenshot](https://github.com/Muradhameed921/Learning-in-AI-Perceptron-vs.-Gradient-Descent-Delta-Rule/blob/main/O2.jpg)
+![Sudoku Solver Screenshot](https://github.com/Muradhameed921/Learning-in-AI-Perceptron-vs.-Gradient-Descent-Delta-Rule/blob/main/O3.jpg)
